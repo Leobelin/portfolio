@@ -1,0 +1,49 @@
+header{
+    text-align: center;
+}
+header ul{
+    list-style-type: none;
+    gap: 20px;
+    justify-content: center;
+}
+.hero{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.hero div{
+    width: 50%;
+}
+.imgHero{
+    width: 20%;
+}
+a{
+    text-decoration: none;
+}
+.card{
+    width: 45%;
+        margin-top: 32px;
+        padding: 8px;
+        border-radius: 16px;
+        box-shadow: 4px 4px 12px hsla(0, 0%, 0%, 0.379);
+}
+.card img{
+    width: 50%;
+    border-radius: 10%;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.projet{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.projet h3{
+    width: 100%;
+}
+.qualités{
+    
+}
